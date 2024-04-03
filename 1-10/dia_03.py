@@ -4,3 +4,6 @@
 Declara una variable de tipo cadena que tenga un texto
                 divertido e imprímela
 """
+
+cadena = "Aprendiendo python para ser hacker :v"
+print(cadena)
