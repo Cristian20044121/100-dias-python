@@ -5,5 +5,5 @@ Usa la función type() para imprimir el tipo de una
                 variable booleana
 """
 
-edad = 8
-print(type(edad))
+mayorDeEdad = true
+print(type(mayorDeEdad))
