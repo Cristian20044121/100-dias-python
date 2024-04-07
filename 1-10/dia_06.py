@@ -4,3 +4,9 @@
 Declara 2 variables de tipo cadena, concaténalas
                 e imprime el resultado
 """
+
+cadena1 = "Hola"
+cadena2 = "Mundo"
+
+concatenacion = cadena1 + " " + cadena2
+print(concatenacion)
