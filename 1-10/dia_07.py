@@ -4,3 +4,6 @@
 Declara una variable tipo cadena con saltos de línea
                 e imprime el resultado
 """
+
+saltosDeLinea = "Hola Mundo \n desde python"
+print(saltosDeLinea)
