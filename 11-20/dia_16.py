@@ -4,3 +4,5 @@
 Declara una variable de tipo cadena e imprime la cantidad de
                 caracteres de la cadena sin usar ciclos.
 """
+cadena = "Hola Mundo"
+print(len(cadena))
