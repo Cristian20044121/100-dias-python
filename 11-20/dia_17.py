@@ -5,3 +5,7 @@ Declara una variable de tipo cadena, encuentra la cantidad
             de veces que aparece la letra 'a'
         sin usar ciclos e imprime el resultado.
 """
+
+cadena = "Hola mundo desde python"
+resultado = cadena.count("a")
+print(resultado)
