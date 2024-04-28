@@ -4,3 +4,7 @@
 Declara una variable de tipo cadena, reviértela sin usar
     funciones adicionales e imprime el resultado.
 """
+cadena = "Hola mundo"
+
+cadenaInvertida = cadena[::-1]
+print(cadenaInvertida)
